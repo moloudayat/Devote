@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A17AAA642EB7A24400CAF365 /* HideKeyboardExtention.swift in Sources */ = {isa = PBXBuildFile; fileRef = A17AAA632EB7A24400CAF365 /* HideKeyboardExtention.swift */; };
 		A193A5442EA4B5290012E961 /* DevoteApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A193A5432EA4B5290012E961 /* DevoteApp.swift */; };
 		A193A5462EA4B5290012E961 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A193A5452EA4B5290012E961 /* ContentView.swift */; };
 		A193A5482EA4B52A0012E961 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A193A5472EA4B52A0012E961 /* Assets.xcassets */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A17AAA632EB7A24400CAF365 /* HideKeyboardExtention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HideKeyboardExtention.swift; sourceTree = "<group>"; };
 		A193A5402EA4B5290012E961 /* Devote.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Devote.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A193A5432EA4B5290012E961 /* DevoteApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DevoteApp.swift; sourceTree = "<group>"; };
 		A193A5452EA4B5290012E961 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 		A193A55F2EA4B6CC0012E961 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
+				A17AAA632EB7A24400CAF365 /* HideKeyboardExtention.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -211,6 +214,7 @@
 				A193A54D2EA4B52A0012E961 /* Persistence.swift in Sources */,
 				A193A5462EA4B5290012E961 /* ContentView.swift in Sources */,
 				A193A5692EA4D2740012E961 /* Constant.swift in Sources */,
+				A17AAA642EB7A24400CAF365 /* HideKeyboardExtention.swift in Sources */,
 				A193A5502EA4B52A0012E961 /* Devote.xcdatamodeld in Sources */,
 				A193A5442EA4B5290012E961 /* DevoteApp.swift in Sources */,
 			);
